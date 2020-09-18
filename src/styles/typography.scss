@@ -107,6 +107,14 @@
 		border: 0;
 		margin: 0;
 		box-shadow: none !important;
+		font-weight: 700;
+		font-size: 140% !important;
+		height: auto !important;
+
+		* {
+			font-weight: 700;
+			font-size: 140%;
+		}
 	}
 
 	.edit-post-visual-editor__post-title-wrapper {

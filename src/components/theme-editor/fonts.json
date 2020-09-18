@@ -17,7 +17,7 @@
 	"avenir": {
 		"name": "Avenir",
 		"font-family": "Avenir, sans-serif",
-		"url": "https://fileshare.servebeer.com/avenir/stylesheet.css"
+		"url": "../../avenir.css"
 	},
 	"system": {
 		"name": "System",
